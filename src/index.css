@@ -17,3 +17,14 @@ tbody tr:hover{
   background-color: cyan;
 }
 
+footer {
+  position: fixed;
+  bottom: 0;
+  width: 100%;
+
+}
+
+.navbar{
+  margin-bottom: 70px !important;
+  
+}

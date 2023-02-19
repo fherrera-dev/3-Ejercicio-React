@@ -284,7 +284,7 @@ const Formulario = () => {
 
             </form>
             <br/>  
-            <div class="alert alert-success" >
+            <div className="alert alert-success" >
 
               <ul>
 

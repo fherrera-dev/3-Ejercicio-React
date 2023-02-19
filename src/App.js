@@ -1,18 +1,15 @@
-import logo from './logo.svg';
-import './App.css';
-import Listado from './Components/Listado'
-import Formulario from './Components/Formulario';
 
+import './App.css';
+
+import Router from './Router.js';
 function App() {
   return (
-    <div className="App">
- 
-
-      <Listado></Listado>
-      <hr></hr>
-      <Formulario></Formulario>
-     
+    
+      <div className="App">
+      <Router></Router>
     </div>
+     
+    
   );
 }
 
