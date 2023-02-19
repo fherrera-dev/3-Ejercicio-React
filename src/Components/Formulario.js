@@ -64,7 +64,7 @@ const Formulario = () => {
         // </div>
 
           <Fragment>
-
+<div className='margenNav'></div>
           <div className="container"> 
           <h2>Formulario con Hooks</h2>
           <form onSubmit={handleSubmit(onSubmit)}>

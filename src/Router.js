@@ -28,7 +28,7 @@ class Router extends Component {
                     
                     {/* <Route exact path="/Contador" component={Contador}></Route> */}
 
-                    <Route exact path='/' component={Home}/>
+                   
                     
             
                     

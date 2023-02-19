@@ -24,7 +24,11 @@ footer {
 
 }
 
-.navbar{
+.margenNav{
   margin-bottom: 70px !important;
   
+}
+
+.text{
+  padding: 30px;
 }
